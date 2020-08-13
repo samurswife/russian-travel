@@ -4,9 +4,9 @@
 [Путешествия по России](https://samurswife.github.io/russian-travel/)
 
 ### Технологии:
-*Flex
-*Grid
-*Media-queries
+* Flex;
+* Grid;
+* Media-queries
 
 Смотрите сайт на любых устройствах!
 
