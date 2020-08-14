@@ -2,6 +2,7 @@
 @import url(../cover/__overlay/cover__overlay.css);
 @import url(../cover/__title/cover__title.css);
 @import url(../cover/__subtitle/cover__subtitle.css);
+@import url(../cover/__link/cover__link.css);
 
 .cover {
   max-width: 1184px;
@@ -9,5 +10,7 @@
 }
 
 @media only screen and (max-width: 1024px) {
-  max-width: 100%;
+  .cover {
+    max-width: 100%;
+  }
 }
