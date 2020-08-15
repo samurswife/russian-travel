@@ -14,10 +14,22 @@
   }
 }
 
-@media only screen and (min-width: 320px) and (max-width: 425px) {
+@media only screen and (max-width: 490px) {
+  .place__title {
+    width: 90%;
+  }
+}
+
+@media only screen and (min-width: 321px) and (max-width: 600px) {
   .place__title {
     font-size: 32px;
     line-height: 1.1;
     width: 90%;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  .place__title {
+    width: 288px;
   }
 }

@@ -1,32 +1,32 @@
 /*VENDOR*/
-@import url(../vendor/normalize.css);
-@import url(../vendor/fonts.css);
+@import url("../vendor/normalize.css");
+@import url("../vendor/fonts.css");
 
 /*CENTER*/
-@import url(../blocks/center/center.css);
+@import url("../blocks/center/center.css");
 
 /*PAGE*/
-@import url(../blocks/page/page.css);
+@import url("../blocks/page/page.css");
 
 /*HEADER*/
-@import url(../blocks/header/header.css);
+@import url("../blocks/header/header.css");
 
 /*LEAD*/
-@import url(../blocks/lead/lead.css);
+@import url("../blocks/lead/lead.css");
 
 /*INTRO*/
-@import url(../blocks/intro/intro.css);
-@import url(../blocks/intro-wrap/intro-wrap.css);
+@import url("../blocks/intro/intro.css");
+@import url("../blocks/intro-wrap/intro-wrap.css");
 
 /*PHOTO-GRID*/
-@import url(../blocks/photo-grid/photo-grid.css);
+@import url("../blocks/photo-grid/photo-grid.css");
 
 /*PLACES*/
-@import url(../blocks/places/places.css);
-@import url(../blocks/place/place.css);
+@import url("../blocks/places/places.css");
+@import url("../blocks/place/place.css");
 
 /*COVER*/
-@import url(../blocks/cover/cover.css);
+@import url("../blocks/cover/cover.css");
 
 /*FOOTER*/
-@import url(../blocks/footer/footer.css);
+@import url("../blocks/footer/footer.css");
