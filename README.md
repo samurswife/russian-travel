@@ -1,13 +1,18 @@
-# Проект 3: Путешествие по России
+# Путешествие по России
 
-Это мой первый адаптивный сайт. Посмотрите, каким он получился:
-[Путешествия по России](https://samurswife.github.io/russian-travel/)
+Учебный проект по верстке адаптивных страниц
 
-### Технологии:
-* Flex;
-* Grid;
-* Media-queries
+## Стек
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 
-Смотрите сайт на любых устройствах!
+## Технологии
+* Flexbox
+* CSS Grid
+* Media queries
+* Семантические тэги
+
+## Посмотреть, что получилось:
+[https://past-frog.surge.sh/](https://past-frog.surge.sh/)
+
 
 
