@@ -9,7 +9,7 @@
 * Flexbox
 * CSS Grid
 * Media queries
-* Семантические тэги
+* Семантические верстка
 
 ## Посмотреть, что получилось:
 [https://past-frog.surge.sh/](https://past-frog.surge.sh/)
